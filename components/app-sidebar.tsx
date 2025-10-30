@@ -26,19 +26,19 @@ const data = {
       items: [
         {
           title: "Newsfeed",
-          url: "#",
+          url: "/feed",
         },
         {
           title: "Create Post",
-          url: "#",
+          url: "/create-post",
         },
         {
           title: "Friends",
-          url: "#",
+          url: "/friends",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/settings",
         },
       ],
     },
