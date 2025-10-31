@@ -40,6 +40,10 @@ const data = {
           title: "Settings",
           url: "/settings",
         },
+        {
+          title: "Profile",
+          url: "/profile",
+        }
       ],
     },
   ],
