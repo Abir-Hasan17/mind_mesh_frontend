@@ -29,6 +29,10 @@ const data = {
           url: "#",
         },
         {
+          title: "My Posts",
+          url: "#",
+        },
+        {
           title: "Create Post",
           url: "#",
         },

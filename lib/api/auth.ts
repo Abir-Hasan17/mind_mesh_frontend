@@ -11,3 +11,8 @@ export const login = async (data: z.infer<typeof loginSchema>) => {
   const response = await api.post("/auth/login", data);
   return response.data;
 };
+
+export const authcheck = async () => {
+  const response = await api.get("/auth/authcheck");
+  return response.data;
+};
